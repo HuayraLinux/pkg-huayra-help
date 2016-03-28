@@ -1,3 +1,4 @@
 huayra-help usr/bin/huayra-help
 grandparent-pid usr/bin/grandparent-pid
+set-wmclass usr/bin/set-wmclass
 huayra-help.cfg usr/share/huayra-help/
