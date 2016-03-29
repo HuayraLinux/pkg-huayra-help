@@ -1,3 +1,11 @@
+huayra-help (0.3-1) unstable; urgency=low
+
+  * Nueva version, scripts mejorados
+  * Actualizo manpages
+  * Agrego dependencia en Python
+
+ -- Huayra Devel <huayra-devel@listas.huayragnulinux.com.ar>  Tue, 29 Mar 2016 14:13:16 -0300
+
 huayra-help (0.2-1) unstable; urgency=low
 
   * Version inicial

@@ -10,7 +10,7 @@ Vcs-Git: http://github.com/huayralinux/pkg-huayra-help.git
 Package: huayra-help
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, wmctrl (>= 1.07),
-         x11-utils (>= 7.7)
+         x11-utils (>= 7.7), python (<= 2.8)
 Description: Paquete que nos ayuda a encontrar ayuda
  Este paquete contiene una serie de aplicaciones que nos
  ayudaran a encontrar la pagina correcta en la ayuda de
