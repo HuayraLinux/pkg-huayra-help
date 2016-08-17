@@ -1,3 +1,9 @@
+huayra-help (0.3-1.1) unstable; urgency=medium
+
+  * Cambiando arquitectura a All
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 17 Aug 2016 14:00:31 -0300
+
 huayra-help (0.3-1) unstable; urgency=low
 
   * Nueva version, scripts mejorados
